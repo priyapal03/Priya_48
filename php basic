@@ -1,0 +1,7 @@
+php is start with <?php
+and php has echo that can print a content.
+in code of php at the end of php has (;) semicolon is used to close .
+in php, $ is defined as a variable.
+in php code it is not a case sensitive.
+but php variable are a case sensitive like $COLOR are not equal to $color.
+php is end with the tag of (?>)
